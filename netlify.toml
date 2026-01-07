@@ -1,7 +1,0 @@
-[build]
-  command = "REACT_APP_STAGE=dev yarn build"
-  publish = "build"
-
-# Environment variables (optional)
-[build.environment]
-# Remove any non-string npm_package_* variables
