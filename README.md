@@ -4,7 +4,7 @@ A fullstack basketball statistics dashboard web-app built with React, Tailwind C
 
 ## Live Demo
 
-Check out the live project here: [Basketball Dashboard]((https://basketball-dashboard-gamma.vercel.app/))
+Check out the live project here: https://basketball-dashboard-gamma.vercel.app
 
 ## Features
 
@@ -16,3 +16,4 @@ Check out the live project here: [Basketball Dashboard]((https://basketball-dash
 ## Technologies Used
 
 React | Tailwind CSS | D3.js | Nivo | JavaScript | HTML | CSS
+
